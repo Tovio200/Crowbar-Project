@@ -38,6 +38,7 @@ public class Proxy {
 		languages.add("zh_CN");
 		languages.add("en_US");
 		languages.add("zh_TW");
+		languages.add("es_AR");
 	}
 
 	public void profilerStartSection(String section) {
