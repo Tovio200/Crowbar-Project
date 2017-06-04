@@ -1,0 +1,140 @@
+﻿tile.elcrafter.name=Creador de armas electricas
+tile.tin.name=Mineral de estaño
+tile.copper.name=Mineral de cobre
+tile.advcrafter.name=Creador de armas avanzadas
+tile.healthcharger.name=Cargador de vida
+tile.armorcharger.name=Cargador de armadura
+tile.crafter.name=Creador de armas
+tile.uranium.name=Mineral de uranio
+tile.tripmine.name=Mina laser
+tile.refined.name=Bloque de acero refinado
+tile.medkitfiller.name=Potenciador de medkit
+tile.wire.name=Cable conductor
+tile.batbox0.name=Caja de bateria pequeña
+tile.batbox1.name=Caja de bateria grande
+tile.genSolar.name=Generador solar
+tile.genLava.name=Generador de lava
+tile.genFire.name=Generador de fuego
+tile.mugen.name=Mugen
+tile.xendeserteddirt.name=Tierra desertica de Xen
+tile.xenblackpillar.name=Pilar negro de Xen
+tile.slimeflow.name=Agua sanadora
+tile.slimestill.name=Agua sanadora (estatica)
+tile.xenAmethyst.name=Amatista de Xen
+tile.xencrystal.name=Mineral de cristal de Xen
+tile.xendirt.name=Tierra de Xen
+tile.xengrass.name=Grava de Xen
+tile.xenLight.name=Luz de Xen
+tile.xenPortal.name=Portal de Xen
+tile.xensand.name=Arena de Xen
+tile.xenstone.name=Piedra de Xen
+tile.xenwaterflow.name=Agua de Xen
+tile.xenwaterstill.name=Agua de Xen (estatica)
+#Weapon Modes
+mode.new=New Mode
+mode.crossbow0=Normal Shot
+mode.crossbow1=Explosive Shot
+mode.rpg0=Normal Mode
+mode.rpg1=Tracking Mode
+mode.satchel1=Setting Mode
+mode.satchel2=Detonating Mode
+mode.elcrowbar0=Activated
+mode.elcrowbar1=Deactivated
+#Weapon Crafter Pages
+crafter.weapon=Weapon Forging
+crafter.ammo=Ammo Forging
+crafter.storage=Material Storage
+crafter.equipments=Equipment Forging
+#GUI texts
+gui.crafter_storage.name=Material Storage
+gui.idle.name=Idle
+gui.curtask.name=Current Task
+gui.curheat.name=Current Heat
+gui.heat.name=Heat
+gui.nomaterial.name=NO Material
+gui.crafting.name=Crafting
+gui.rsbehavior.name=Redstone Behavior
+gui.hemain.name=Main Effect
+gui.heside.name=Side Effect
+gui.curenergy.name=Current Energy
+#Misc
+ammocap.name=Ammunition
+#Redstone Behavior
+rs.donothing.name=None
+rs.chargeonly.name=Charge only when activated
+rs.reciveonly.name=Recive only when activated
+rs.discharge.name=Discharge only when activated
+rs.emit.name=Emit only when activated
+#Keys
+key.mode=Weapon Mode
+key.reload=Weapon Reload
+key.cbcuse=Use Block
+#weapons
+weapon.useinv.name=Consumes Inventory Ammunition
+#Achivements
+achievement.nuclearRawMaterial=New Oppenheimer
+achievement.nuclearRawMaterial.desc=Mine a high radioactive uranium ore!
+achievement.radioactiveBeryl=Danger of the Beauty
+achievement.radioactiveBeryl.desc=OH my gosh! The Uranium!
+achievement.ohMyTeeth=OOOOOH! My teeth!
+achievement.ohMyTeeth.desc=Getting harder
+achievement.newTinOre=New Ore!
+achievement.newTinOre.desc=Tin Ore
+achievement.newCopperOre=New Ore!
+achievement.newCopperOre.desc=Copper Ore
+achievement.letsMoe=Let's Moe!
+achievement.letsMoe.desc=Sounds Good!
+#Sprays
+spary.nospace=Cannot Spray! : There is no space to spray
+spary.haswater=Cannot Spray! : There is some water around there
+spary.beenblocked=Cannot Spray! : There is already a spray
+#Sentry Message
+sentry.head.name=H.E.C.U Automatic Turret
+sentry.id.name=Sentry ID
+sentry.attackstat.name=Sentry Attacking Status
+sentry.linksuccess.name=The sentry gun has successfully linked to your emitter.
+sentry.status0.name=Shutdown
+sentry.status1.name=Activate
+sentry.attacktype0.name=Don't attack other players
+sentry.attacktype1.name=Attack other players
+sentry.deny.name=You are not the user. Access denied.
+sentry.successful.name=Sentry detection ray successfully deployed.
+sentry.another.name=Please place another sentry ray nearby.
+sentry.toofar.name=The emitter is too far away, process aborted.
+#Attach
+attach.longjump.name=Longjump Module
+attach.bhop.name=Fast Movemt Module
+attach.falling.name=Falling Protection Module
+attach.electricity.name=Electricity Enhancing Module
+attach.defense.name=Defense Enhancing Module
+attach.wpnmanage.name=Weapon Management Module
+#spray
+spray.argument.name=Illegal argument size.
+spray.format.name=You didn't enter a number.
+spray.successful.name=Editing successful.
+spray.id.name=Current spray id : 
+spray.color.name=Current spray color : 
+#Entities
+entity.LambdaCraft.hlzombie.name=Headcrab Zombie
+entity.LambdaCraft.snark.name=Snark
+entity.LambdaCraft.barnacle.name=Barnacle
+entity.LambdaCraft.turret.name=H.E.C.U. Turret
+entity.LambdaCraft.houndeye.name=Houndeye
+entity.LambdaCraft.shockwave.name=Houndeye Shockwave
+entity.LambdaCraft.vortigaunt.name=Alien Slave
+entity.LambdaCraft.vor_ray.name=Vortigaunt Ray
+entity.LambdaCraft.gauss.name=Gauss Ray
+entity.LambdaCraft.gauss2.name=Gauss Raidy
+entity.LambdaCraft.egonray.name=Egon Ray""
+entity.LambdaCraft.argrenade.name=AR Grenade
+entity.LambdaCraft.hgrenade.name=Hand Grenade
+entity.LambdaCraft.hornet.name=Hornet
+entity.LambdaCraft.rocket.name=RPG Rocket
+entity.LambdaCraft.dot.name=RPG Dot
+entity.LambdaCraft.satchel.name=Satchel
+entity.LambdaCraft.arrow.name=Composite Arrow
+entity.LambdaCraft.still.name=Composite Arrow
+entity.LambdaCraft.gaussp.name=Energy Glow
+entity.LambdaCraft.medkit.name=Medical Kit
+entity.LambdaCraft.battery.name=Energy Battery
+entity.LambdaCraft.entityart.name=Spray
